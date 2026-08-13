@@ -1,1 +1,9 @@
-
+[
+  {
+    "event_code": "CE-01",
+    "canon_event_name": "Loss of the Father Figure",
+    "description": "Uncle Ben, Uncle Aaron, Uncle George, etc. dies.",
+    "universal_impact": "Teaches 'With great power comes great responsibility.'",
+    "category": "Critical Loss",
+    "disruption_consequence": "CRITICAL_ANOMALY"
+  },
