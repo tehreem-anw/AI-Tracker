@@ -7,3 +7,11 @@
     "category": "Critical Loss",
     "disruption_consequence": "CRITICAL_ANOMALY"
   },
+{
+    "event_code": "CE-02",
+    "canon_event_name": "Death of the Police Captain",
+    "description": "A Police Captain close to Spider-Man dies saving a child from falling debris while Spidey fights a villain.",
+    "universal_impact": "Hardens Spider-Man’s resolve; required for canon stability.",
+    "category": "Critical Loss",
+    "disruption_consequence": "CRITICAL_ANOMALY"
+  },
