@@ -23,4 +23,12 @@
     "category": "Critical Loss",
     "disruption_consequence": "CRITICAL_ANOMALY"
   },
+  {
+    "event_code": "CE-04",
+    "canon_event_name": "The Radioactive Spider Bite",
+    "description": "A genetically modified or radioactive spider bites Peter/Miles/Gwen.",
+    "universal_impact": "Grants powers and kicks off the superhero path.",
+    "category": "Core Origin",
+    "disruption_consequence": "STABLE_MILESTONE"
+  },
 ]
