@@ -15,4 +15,12 @@
       "category": "Critical Loss",
       "disruption_consequence": "CRITICAL_ANOMALY"
     },
+  {
+    "event_code": "CE-03",
+    "canon_event_name": "First Nemesis Tragedy",
+    "description": "A close friend/mentor turns into a villain (e.g., Harry Osborn, Doc Ock) or dies in battle (Gwen Stacy on Earth-616).",
+    "universal_impact": "Defines the tragedy and isolation of being Spider-Man.",
+    "category": "Critical Loss",
+    "disruption_consequence": "CRITICAL_ANOMALY"
+  },
 ]
