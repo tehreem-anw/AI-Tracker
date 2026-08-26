@@ -31,4 +31,12 @@
     "category": "Core Origin",
     "disruption_consequence": "STABLE_MILESTONE"
   },
+  {
+    "event_code": "CE-05",
+    "canon_event_name": "Lifting the Immovable Object",
+    "description": "Spider-Man is trapped under tons of heavy metal/debris and must find the inner strength to lift it.",
+    "universal_impact": "Defines their refusal to give up.",
+    "category": "Core Growth",
+    "disruption_consequence": "STABLE_MILESTONE"
+  },
 ]
