@@ -39,4 +39,12 @@
     "category": "Core Growth",
     "disruption_consequence": "STABLE_MILESTONE"
   },
+   {
+    "event_code": "CE-06",
+    "canon_event_name": "The Dark Suit / Inner Struggle",
+    "description": "Bonding with and eventually rejecting a corrupting power (like the Symbiote).",
+    "universal_impact": "Teaches self-control and moral integrity.",
+    "category": "Core Growth",
+    "disruption_consequence": "STABLE_MILESTONE"
+  },
 ]
