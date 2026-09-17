@@ -47,4 +47,12 @@
     "category": "Core Growth",
     "disruption_consequence": "STABLE_MILESTONE"
   },
+  {
+    "event_code": "CE-07",
+    "canon_event_name": "The First Love",
+    "description": "Forming a deep romantic bond amidst the chaos of superhero life.",
+    "universal_impact": "Humanizes the hero.",
+    "category": "Core Origin",
+    "disruption_consequence": "STABLE_MILESTONE"
+  }
 ]
